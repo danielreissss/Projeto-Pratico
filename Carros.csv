@@ -1,0 +1,103 @@
+#Identificador,Modelo,Marca,Ano_de_lançamento,Descrição,Preço
+100,Gallardo,Lamborghini,2004,"equipado com um motor V10 e produzindo 520 CV de potência.",1200000.00
+101,Uno,Fiat,1990,"o primeiro carro popular com motor 1.0 do Brasil.",5000.00
+102,Civic,Honda,1996,"modelo que popularizou o motor VTEC no Brasil.",25000.00
+103,Corolla,Toyota,1994,"sedã médio confiável, com motor 1.8 ou 2.0.",30000.00
+104,Fusca,Volkswagen,1959,"ícone popular com motor traseiro refrigerado a ar.",20000.00
+105,Opala,Chevrolet,1968,"primeiro carro de passeio da Chevrolet no Brasil.",35000.00
+106,Mustang,Ford,1964,"marcou o nascimento dos muscle cars americanos.",150000.00
+107,Gol,Volkswagen,1980,"um dos carros mais vendidos do Brasil.",15000.00
+108,Palio,Fiat,1996,"modelo compacto com motores 1.0 a 1.8.",18000.00
+109,HB20,Hyundai,2012,"primeiro carro da marca produzido no Brasil.",45000.00
+110,Corsa,Chevrolet,1994,"popular hatch compacto com motor 1.0 ou 1.6.",17000.00
+111,Ka,Ford,1997,"carro urbano com visual inovador e motor 1.0.",16000.00
+112,Sandero,Renault,2007,"espaçoso e econômico com motor 1.0 ou 1.6.",35000.00
+113,Onix,Chevrolet,2012,"líder de vendas com motor 1.0 turbo ou aspirado.",50000.00
+114,Argo,Fiat,2017,"compacto moderno com motores Firefly e E.torQ.",55000.00
+115,208,Peugeot,2013,"hatch francês com foco em design e economia.",40000.00
+116,Clio,Renault,1996,"compacto francês econômico com motor 1.0.",14000.00
+118,Tracker,Chevrolet,2013,"SUV com motor turbo eficiente e moderno.",85000.00
+119,Creta,Hyundai,2017,"SUV urbano com bom espaço interno e motores 1.6 ou 2.0.",80000.00
+120,Renegade,Jeep,2015,"SUV compacto com opção de motor diesel.",75000.00
+121,Compass,Jeep,2016,"SUV médio com motor turbo e bom acabamento.",100000.00
+122,Toro,Fiat,2016,"picape intermediária com motor flex ou diesel.",95000.00
+123,Strada,Fiat,1998,"líder em vendas no segmento de picapes pequenas.",40000.00
+124,Saveiro,Volkswagen,1982,"picape compacta com motor 1.6.",38000.00
+125,Hilux,Toyota,1992,"picape robusta com motor diesel e tração 4x4.",120000.00
+126,S10,Chevrolet,1995,"picape média com motor flex ou diesel.",110000.00
+127,Ranger,Ford,1994,"picape média com motor potente e cabine dupla.",105000.00
+128,EcoSport,Ford,2003,"primeiro SUV compacto brasileiro com motor flex.",30000.00
+129,HR-V,Honda,2015,"SUV com câmbio CVT e motor 1.8 flex.",85000.00
+130,Fit,Honda,2003,"monovolume com ótimo aproveitamento de espaço.",35000.00
+131,City,Honda,2009,"sedã compacto com motor 1.5 flex.",50000.00
+132,Logan,Renault,2007,"sedã espaçoso com bom custo-benefício.",28000.00
+133,Virtus,Volkswagen,2018,"sedã derivado do Polo com motor turbo.",70000.00
+134,Jetta,Volkswagen,2006,"sedã médio com motor TSI de alta performance.",60000.00
+135,Passat,Volkswagen,1974,"sedã com tradição e motorização refinada.",45000.00
+136,Santana,Volkswagen,1984,"sedã médio popular nos anos 80 e 90.",20000.00
+137,Vectra,Chevrolet,1993,"sedã médio com bom desempenho e acabamento.",25000.00
+138,Omega,Chevrolet,1992,"topo de linha da GM com motor 4.1.",30000.00
+139,Monza,Chevrolet,1982,"sedã médio com motor 1.8 ou 2.0.",18000.00
+140,Celta,Chevrolet,2000,"hatch econômico com motor 1.0.",15000.00
+141,Fox,Volkswagen,2003,"hatch alto com boa posição de dirigir.",22000.00
+142,Voyage,Volkswagen,1981,"versão sedã do Gol, com motor 1.0 ou 1.6.",20000.00
+143,Linea,Fiat,2008,"sedã com motor 1.8 e câmbio Dualogic.",25000.00
+144,Tempra,Fiat,1992,"sedã com motor 2.0 e design italiano.",18000.00
+145,Marea,Fiat,1998,"motor 2.0 20V, conhecido pela alta performance.",20000.00
+146,Punto,Fiat,2007,"hatch com bom acabamento e motor T-Jet.",30000.00
+147,Brava,Fiat,1999,"design moderno com motor 1.6 ou 1.8.",17000.00
+148,Tipo,Fiat,1993,"hatch médio com motor 1.6 ou 2.0.",15000.00
+149,Passo,Toyota,2004,"subcompacto japonês com motor 1.0.",25000.00
+150,i30,Hyundai,2009,"hatch médio com motor 2.0 ou 1.6.",35000.00
+151,Veloster,Hyundai,2011,"design diferenciado com porta extra lateral.",40000.00
+152,X1,BMW,2010,"SUV compacto com motores turbo eficientes.",90000.00
+153,X3,BMW,2004,"SUV premium com tração integral xDrive.",100000.00
+154,X5,BMW,1999,"SUV grande com luxo e motor potente.",120000.00
+155,Serie 3,BMW,1975,"sedã esportivo com ótimo equilíbrio dinâmico.",80000.00
+156,Serie 5,BMW,1972,"sedã executivo com tecnologia avançada.",100000.00
+157,A3,Audi,1996,"compacto premium com motor turbo.",70000.00
+158,A4,Audi,1994,"sedã médio com tração quattro opcional.",80000.00
+159,A6,Audi,1995,"sedã executivo com motor V6 turbo.",90000.00
+160,TT,Audi,1998,"cupê esportivo com design marcante.",85000.00
+161,Q3,Audi,2011,"SUV compacto premium com motor 1.4 turbo.",95000.00
+162,Q5,Audi,2008,"SUV médio com motor TFSI.",110000.00
+163,C180,Mercedes-Benz,1993,"sedã de entrada da linha Classe C.",70000.00
+164,C200,Mercedes-Benz,1996,"modelo com motor turbo e alto padrão.",80000.00
+165,E250,Mercedes-Benz,2009,"sedã executivo com motor 2.0 turbo.",100000.00
+166,CLA,Mercedes-Benz,2013,"cupê de quatro portas com design esportivo.",90000.00
+167,GLA,Mercedes-Benz,2014,"SUV compacto com tração dianteira ou integral.",95000.00
+168,Classe A,Mercedes-Benz,1999,"modelo de entrada com design inovador.",60000.00
+169,Panamera,Porsche,2009,"sedã esportivo com motor V6 ou V8.",250000.00
+170,Cayenne,Porsche,2002,"SUV esportivo com desempenho de carro esportivo.",200000.00
+171,Macan,Porsche,2014,"SUV compacto com motor turbo.",220000.00
+172,911,Porsche,1964,"ícone esportivo com motor traseiro boxer.",300000.00
+173,Model-S,Tesla,2012,"sedã elétrico com grande autonomia e aceleração.",350000.00
+174,Model-3,Tesla,2017,"modelo elétrico acessível com alta tecnologia.",250000.00
+175,Leaf,Nissan,2010,"um dos primeiros elétricos de massa.",120000.00
+176,Bolt,Chevrolet,2016,"hatch 100% elétrico com bom alcance.",130000.00
+177,e-tron,Audi,2018,"SUV elétrico com tração quattro.",300000.00
+178,XC40,Volvo,2017,"SUV compacto com versão elétrica e híbrida.",200000.00
+179,XC60,Volvo,2008,"SUV médio com foco em segurança.",180000.00
+180,XC90,Volvo,2002,"SUV grande com motorização híbrida.",250000.00
+181,Tiguan,Volkswagen,2007,"SUV com opção de motor TSI e 7 lugares.",85000.00
+182,Kicks,Nissan,2016,"SUV urbano com motor 1.6 flex.",75000.00
+183,March,Nissan,2011,"hatch compacto com bom consumo.",30000.00
+184,Sentra,Nissan,2007,"sedã médio com motor 2.0.",45000.00
+185,Altima,Nissan,2013,"sedã grande com motor 2.5 ou V6.",85000.00
+186,Cerato,Kia,2009,"sedã com visual moderno e motor 1.6.",40000.00
+187,Sportage,Kia,2005,"SUV com design marcante e motor 2.0.",65000.00
+188,Sorento,Kia,2010,"SUV grande com 7 lugares e motor V6.",90000.00
+189,Picanto,Kia,2008,"subcompacto com motor 1.0 econômico.",28000.00
+190,Soul,Kia,2009,"design diferenciado e motor 1.6 flex.",32000.00
+191,Jimny,Suzuki,1998,"off-road compacto com tração 4x4.",85000.00
+192,Vitara,Suzuki,1993,"SUV leve com tradição fora de estrada.",70000.00
+193,MX-5,Mazda,1990,"roadster leve com tração traseira.",120000.00
+194,Impreza,Subaru,1992,"famoso pela tração integral e versões WRX.",95000.00
+195,Forester,Subaru,1997,"SUV com tração integral permanente.",90000.00
+196,Legacy,Subaru,1989,"sedã médio com motor boxer.",75000.00
+197,300C,Chrysler,2005,"sedã grande com motor V6 ou HEMI.",85000.00
+198,Charger,Dodge,2006,"sedã esportivo com motor V6 ou V8.",130000.00
+199,Durango,Dodge,1998,"SUV grande com motor HEMI V8.",110000.00
+200,458 Itália,Ferrari,2009,"Motor V8 de 570 cv de potência",3000000.00
+201,488 GTB,Ferrari,2015,"Sucessor da famosa 458 Itália",4000000.00
+202,Parati,Volkswagen,1980,"Motor CL 1.6 ",5000.00
